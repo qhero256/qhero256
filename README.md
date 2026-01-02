@@ -91,16 +91,12 @@ README.md (Profile Repository)
 ## 📊 GitHub pulse
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=qhero256&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=transparent" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhero256&layout=compact&hide_border=true&theme=transparent" alt="Top Langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=qhero256&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&v=1" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhero256&layout=compact&hide_border=true&theme=dark&v=1" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=qhero256&hide_border=true&theme=transparent" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qhero256&no-frame=true&row=1&column=7&theme=darkhub" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=qhero256&hide_border=true&theme=dark&v=1" alt="GitHub Streak"/>
 </p>
 
 ---
