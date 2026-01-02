@@ -19,7 +19,7 @@ README.md (Profile Repository)
 
 <p align="center">
   <a href="https://github.com/qhero256">
-    <img src="https://img.shields.io/badge/GitHub-qhero256-0b0f14?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-qhero256-0b0f14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/qhero256/">
     <img src="https://img.shields.io/badge/LinkedIn-qhero256-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
