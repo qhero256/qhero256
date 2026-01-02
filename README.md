@@ -91,20 +91,32 @@ README.md (Profile Repository)
 ## 📊 GitHub pulse
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=qhero256&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&v=1" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhero256&layout=compact&hide_border=true&theme=dark&v=1" alt="Top Langs"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qhero256&theme=github_dark"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=qhero256&hide_border=true&theme=dark&v=1" alt="GitHub Streak"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qhero256&theme=github_dark"
+    alt="Top Languages by Repo"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qhero256&theme=github_dark"
+    alt="Top Languages by Commits"
+  />
 </p>
 
----
-
-## 🐍 Contribution snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/qhero256/qhero256/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qhero256&theme=github_dark"
+    alt="General Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qhero256&theme=github_dark&utcOffset=-5"
+    alt="Productive Time"
+  />
 </p>
 
 ---
