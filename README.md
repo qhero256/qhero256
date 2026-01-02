@@ -122,6 +122,14 @@ README.md (Profile Repository)
 
 ---
 
+## 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qhero256/qhero256/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ## 📫 Contact / collab
 
 - LinkedIn: https://www.linkedin.com/in/qhero256/
