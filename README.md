@@ -46,8 +46,9 @@ README.md (Profile Repository)
 - 🧩 **BI Systems Lead**: reporting, data modeling, cloud cost allocation (EC2/RDS), dashboards that actually move the needle.
 - 🧠 **Lógica y fundamentos de programación**: me gusta entender el “por qué” antes del “cómo”.
 - ⚡ **SQL power user**: CTEs, window functions, pivots y performance.
+- 🐍 **Python**: Pandas, Numpy, Matplotlib, Pyspark
 - ☁️ Cloud order (my way): **Azure → GCP → AWS**
-- 🧱 Also: **Databricks**, **Python**, **PHP**, WordPress ecosystems.
+- 🧱 Also: **Databricks**, **PHP**, WordPress ecosystems.
 
 ---
 
