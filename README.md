@@ -12,7 +12,7 @@ README.md (Profile Repository)
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=800&center=true&vCenter=true&width=1000&lines=Azure+first+%E2%98%81%EF%B8%8F+%E2%86%92+GCP+%E2%86%92+AWS;SQL%3A+CTEs+%E2%80%A2+window+functions+%E2%80%A2+pivots;BI+%26+Data+Engineering+for+real+business+problems;Creator+mindset%3A+ship+small%2C+iterate+fast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=800&center=true&vCenter=true&width=1000&lines=Azure+first+%E2%98%81%EF%B8%8F+%E2%86%92+GCP+%E2%86%92+AWS;SQL%3A+CTEs+%E2%80%A2+window+functions+%E2%80%A2+pivots;Python%3A+pandas+%E2%80%A2+PySpark+%E2%80%A2+automation;BI+%26+Data+Engineering+for+real+business+problems;Creator+mindset%3A+ship+small%2C+iterate+fast"
     alt="typing"
   />
 </p>
@@ -33,6 +33,9 @@ README.md (Profile Repository)
   <a href="https://www.youtube.com/@Geekine">
     <img src="https://img.shields.io/badge/YouTube-Geekine-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+  <a href="https://qhero.net/donaciones/">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal"/>
+  </a>
 </p>
 
 <p align="center">
@@ -44,9 +47,9 @@ README.md (Profile Repository)
 ## 🧠 About me (real & simple)
 
 - 🧩 **BI Systems Lead**: reporting, data modeling, cloud cost allocation (EC2/RDS), dashboards that actually move the needle.
-- 🧠 **Lógica y fundamentos de programación**: me gusta entender el “por qué” antes del “cómo”.
-- ⚡ **SQL power user**: CTEs, window functions, pivots y performance.
-- 🐍 **Python**: Pandas, Numpy, Matplotlib, Pyspark
+- 🧠 **Logic & programming fundamentals**: I like understanding the “why” before the “how”.
+- ⚡ **SQL power user**: CTEs, window functions, pivots, and performance tuning.
+- 🐍 **Python**: pandas, NumPy, Matplotlib, PySpark — plus automation scripts and data tooling.
 - ☁️ Cloud order (my way): **Azure → GCP → AWS**
 - 🧱 Also: **Databricks**, **PHP**, WordPress ecosystems.
 
@@ -66,11 +69,11 @@ README.md (Profile Repository)
 
 ---
 
-## 🎮 Godot + Pixel Art (mi lado creativo)
+## 🎮 Godot + Pixel Art (my creative side)
 
-- 🕹️ **Godot**: prototipos pequeños, mecánicas simples, iteración rápida.
-- 🎨 **Pixel Art**: me encanta el estilo retro (y también lo hago a mano).
-- 🚀 Meta: que el hobby sea **diversión + aprendizaje** (y que un día salga algo publicable 😄)
+- 🕹️ **Godot**: small prototypes, simple mechanics, fast iteration.
+- 🎨 **Pixel Art**: I love the retro style (and I also draw it by hand).
+- 🚀 Goal: make the hobby **fun + learning** (and one day ship something publishable 😄)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Godot-Game%20Dev-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"/>
@@ -84,6 +87,7 @@ README.md (Profile Repository)
 - 📊 BI + analytics projects (real-world oriented)
 - 🧱 Data engineering mini-pipelines + patterns
 - 🧠 SQL “power pack” (queries that recruiters love to read)
+- 🐍 Python utilities + notebooks (data cleaning, automation, and experimentation)
 - 🛠️ Creator tooling (scripts, automations, WordPress utilities)
 - 🎮 Small Godot experiments + pixel-art stuff
 
